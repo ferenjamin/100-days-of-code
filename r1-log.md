@@ -13,6 +13,8 @@ Completed FreeCodeCamp's Beginning CSS and 50% Progress on Applied Visual Design
 ### R1D3
 91% Progress on Applied Visual Design. 30 minutes.
 
+Completed Applied Visual Design and 68% Progress on Applied Accessibility. 30 minutes.
+
 ### R1D4
 
 ### R1D5
