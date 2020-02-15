@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Ben R
 
 The log of my #100DaysOfCode challenge. Started on [February 09, Sunday, 2020].
 
@@ -19,8 +19,10 @@ Completed Applied Visual Design and 68% Progress on Applied Accessibility. 30 mi
 Completed Applied Accessibility, Responsive Web Design Principles, CSS Flexbox, and CSS Grid. 1 hour.
 
 ### R1D5
+Completed first project. 1 hour.
 
 ### R1D6
+Completed second project. 45 minutes.
 
 ### R1D7
 
